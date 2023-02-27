@@ -1,0 +1,18 @@
+body{
+    background-color: #40513B;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 250px;
+    margin: 0;
+    
+}
+p{
+    background-color: #EDF1D6;
+    width: fit-content;
+    height: fit-content;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+
+ 
+    
+}
